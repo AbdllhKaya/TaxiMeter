@@ -19,7 +19,7 @@ public class Main {
 
         total= (total>20) ? total : 20 ;
 
-        System.out.print("Taksi price=" + total);
+        System.out.print("Taxi price=" + total);
 
 
     }
